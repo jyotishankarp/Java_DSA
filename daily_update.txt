@@ -1,2 +1,6 @@
 
-DAY-24(20-08-2023): Practicing the char pattern & bitwise operator
+DAY-24(20-08-2023): Practicing the 
+i)  char pattern & 
+ii) bitwise operator,
+iii)increment decrement operator
+iv) cccccccc

@@ -15,13 +15,13 @@ public class bitwiseoperator {
         System.out.print("XOR Operator:");
         System.out.println(2 ^ 3);
 
-        System.out.print("Left Shift Operator");
-        System.out.println(34<<1);
-        // System.out.println(-4<<1);
+        System.out.print("Left Shift Operator:");
+        // System.out.println(34<<1);
+        System.out.println(-4<<1);
 
-        System.out.print("Left Shift Operator");
-        System.out.println(34>>2);
-        // System.out.println(-4>>1);
+        System.out.print("Left Shift Operator:");
+        // System.out.println(34>>2);
+        System.out.println(-4>>1);
 
         // bitwise01(num);
         sc.close();
