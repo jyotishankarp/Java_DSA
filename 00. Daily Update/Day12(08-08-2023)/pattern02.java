@@ -68,6 +68,18 @@ public class pattern02 {
     //* *
     //*
 
+    /*
+    Q6:Print the below pattern:
+    * 
+    * *
+    * * *
+    * * * *
+    * * * * *
+    * * * *
+    * * *
+    * *
+    *
+    END */
     static void pattern6(int num) {
         for (int row = 1; row < 2 * num; row++) {
             int totalColinRow = row > num ? 2 * num - row : row;
