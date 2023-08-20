@@ -1,0 +1,2 @@
+
+DAY-24(20-08-2023): Practicing the char pattern & bitwise operator
