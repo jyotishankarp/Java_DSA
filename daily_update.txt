@@ -4,3 +4,10 @@ i)  char pattern &
 ii) bitwise operator,
 iii)increment decrement operator
 iv) cccccccc
+
+DAY-24(21-08-2023): Practicing the 
+i)  increment decrement operator
+ii) 
+iii)
+iv) 
+Files(,,)
