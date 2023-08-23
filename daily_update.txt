@@ -16,7 +16,7 @@ DAY-25(23-08-2023): Practicing the
 
 DAY-26(23-08-2023): Practicing the 
 i)  Scopes in java
-ii) 
+ii) functions in java
 iii)
 iv) 
 Files(,,)
