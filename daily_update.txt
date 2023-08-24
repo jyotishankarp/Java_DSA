@@ -27,3 +27,10 @@ ii)
 iii)
 iv) 
 Files(,,)
+
+DAY-28(25-08-2023): Practicing the (functions in java,Array)
+i)  java pass by value
+ii) 
+iii)
+iv) 
+Files(PassByValue.java,,)
