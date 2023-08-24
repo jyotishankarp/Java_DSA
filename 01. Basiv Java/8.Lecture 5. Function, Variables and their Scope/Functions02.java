@@ -7,7 +7,6 @@ public class Functions02 {
             }
         }
         return true;
-
     }
 
     public static void main(String[] args) {

@@ -20,3 +20,10 @@ ii) functions in java
 iii)
 iv) 
 Files(,,)
+
+DAY-27(24-08-2023): Practicing the 
+i)  functions calling in java
+ii) 
+iii)
+iv) 
+Files(,,)
