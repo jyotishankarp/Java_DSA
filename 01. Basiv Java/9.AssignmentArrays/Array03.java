@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class Array03 {
+
+    public static int[] takeinput(){
+        return priunt;
+    }
+    public static void print(){
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter array size");
@@ -13,6 +19,7 @@ public class Array03 {
         for (int i = 0; i < size; i++) {
             System.out.print(arr[i] + " ");
         }
+        // Same thing doing with function
         System.out.println();
         sc.close();
     }
