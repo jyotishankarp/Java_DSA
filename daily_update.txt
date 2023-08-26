@@ -40,5 +40,5 @@ DAY-29(26-08-2023): Practicing the (Array)
 02): i)Linear Search
      ii)Binary Search(Must Be in sorted)
      iii)Selection Sort
-     iv) 
+     iv)Bubble Sort(swap adjcent element in an array):Done for today
 Files()
