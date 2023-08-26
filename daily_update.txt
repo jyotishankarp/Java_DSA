@@ -34,3 +34,11 @@ ii)
 iii)
 iv) 
 Files(PassByValue.java,,)
+
+DAY-29(26-08-2023): Practicing the (Array)
+01):Array increment,referance of an array
+02): i)Linear Search
+     ii)Binary Search(Must Be in sorted)
+     iii)
+     iv) 
+Files()
