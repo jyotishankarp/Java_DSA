@@ -17,7 +17,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int element = 4;
-        int arr[] = { 1, 8, 4, 5, 7, 9, 25, 4, 82, 4, 5, 7 };
+        int arr[] = { 1, 5, 7, 8, 11, 16, 19, 20, 26, 27, 31, 39, 42 };
         int index = binarySearch(arr, element);
         System.out.println("Present at index of: " + index);
     }
