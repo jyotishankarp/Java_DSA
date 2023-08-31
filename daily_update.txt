@@ -46,9 +46,13 @@ Files()
 DAY-30(27-08-2023):Practicing the (No Commit Due To Illness)
 DAY-31(28-08-2023):Practicing the (Start Late)
 
-DAY-32(28-08-2023): Practicing the (Array)
+DAY-32(29-08-2023): Practicing the (Array)
 01): i)Linear Search
      ii)Binary Search(Must Be in sorted)
      iii)Selection Sort
      iv)Bubble Sort(swap adjcent element in an array):Done for today
 Files()
+
+DAY-32(30-08-2023): Nothing
+
+DAY-32(31-08-2023): String
