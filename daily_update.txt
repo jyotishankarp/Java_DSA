@@ -58,3 +58,7 @@ DAY-32(30-08-2023): Nothing
 DAY-32(31-08-2023): String,Multi Dimentional Arrays
 01):String: Done For Today
 02):Multi Dimentional Arrays
+
+DAY-33(01-09-2023): Multi Dimentional Arrays
+01):2D array
+02):
