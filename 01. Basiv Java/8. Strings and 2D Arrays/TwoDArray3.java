@@ -14,8 +14,8 @@ public class TwoDArray3 {
                 arr[i][j] = sc.nextInt();
             }
         }
+        sc.close();
         return arr;
-        // sc.close();
     }
 
     // public static void PrintArray2D(int arr[][]) {
@@ -47,7 +47,7 @@ public class TwoDArray3 {
             }
         }
         // return arr;
-        // sc.close();
+        sc.close();
 
         // PrintArray2D(arr);
         System.out.println();
