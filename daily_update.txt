@@ -70,6 +70,6 @@ DAY-35(03-09-2023): Multi Dimentional Arrays
 01):2D array
 02):
 
-DAY-36(04-09-2023): Jagged Arrays
-01):Examples
-02):
+DAY-36(04-09-2023): Jagged Arrays,OOPS 01
+01):Examples(Jagged Arrays)
+02):Starting with OOPS(Access Modifiers,Constructor)
