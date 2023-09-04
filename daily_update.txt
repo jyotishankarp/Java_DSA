@@ -66,6 +66,10 @@ DAY-33(01-09-2023): Multi Dimentional Arrays
 
 DAY-34(02-09-2023): Multi Dimentional Arrays
 
-DAY-35(01-09-2023): Multi Dimentional Arrays
+DAY-35(03-09-2023): Multi Dimentional Arrays
 01):2D array
+02):
+
+DAY-36(04-09-2023): Jagged Arrays
+01):Examples
 02):
