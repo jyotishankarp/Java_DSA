@@ -1,4 +1,5 @@
-public class Recursion05 {
+// HYPER FUNCTION(or Function Overloading)
+public class RecHyperFun {
 
     public static boolean CheckSorted(int arr[]) {
         if (arr.length <= 1) {
@@ -19,9 +20,10 @@ public class Recursion05 {
         }
     }
 
-    // Better Approach(this fun check if the array is sortef from start index to end)
+    // Better Approach(this fun check if the array is sortef from start index to
+    // end)
     // Better Approach
-    public static boolean checkSortedBetter(int input[], int startIndex) {
+    private static boolean checkSortedBetter(int input[], int startIndex) {
         if (startIndex == input.length - 1) {
             return true;
         }
@@ -32,8 +34,12 @@ public class Recursion05 {
         return smallAns;
     }
 
+    public static boolean checkSortedBetter(int input[]) {
+        return checkSortedBetter(input, 0);
+    }
+
     public static void main(String[] args) {
         int input[] = { 2, 4, 5, 8, 9, 1 };
-        System.out.println(checkSortedBetter(input, 0));
+        System.out.println(checkSortedBetter(input));
     }
 }
