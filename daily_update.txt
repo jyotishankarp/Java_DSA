@@ -121,5 +121,5 @@ DAY:(20-09-2023):Main DSA Concept()
 02):LinkedList(Just Sterted)
 
 DAY:(21-09-2023):Main DSA Concept()
-01):ArrayList(Revise)
+01):ArrayList(Revise,foreach loop)
 02):LinkedList
