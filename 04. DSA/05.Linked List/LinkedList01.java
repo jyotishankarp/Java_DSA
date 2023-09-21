@@ -12,6 +12,6 @@ public class LinkedList01 {
         System.out.println(node1.next);
         System.out.println(node2);
 
-        System.out.println();
+        System.out.pr intln();
     }
 }

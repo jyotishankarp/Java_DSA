@@ -122,4 +122,4 @@ DAY:(20-09-2023):Main DSA Concept()
 
 DAY:(21-09-2023):Main DSA Concept()
 01):ArrayList(Revise,foreach loop)
-02):LinkedList
+02):LinkedList()
