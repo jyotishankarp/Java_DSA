@@ -1,21 +1,26 @@
+// Now with Optimized Time Complexity:
+
 import java.util.Scanner;
 
-public class LinkedListInput {
+public class LinkedListInput2 {
 
     public static Node<Integer> takeInput() {
-        Node<Integer> head = null;
+        Node<Integer> head = null, tail = null;
         Scanner sc = new Scanner(System.in);
         int data = sc.nextInt();
         while (data != -1) {
             Node<Integer> newNode = new Node<Integer>(data);
             if (head == null) {
                 head = newNode;
+                tail = newNode;
             } else {
-                Node<Integer> temp = head;
-                while (temp.next != null) {
-                    temp = temp.next;
-                }
-                temp.next = newNode;
+                // Node<Integer> temp = head;
+                // while (temp.next != null) {
+                // temp = temp.next;
+                // }
+                // temp.next = newNode;
+                tail.next = newNode;
+                tail = newNode; // or: tail = tail.next
             }
             data = sc.nextInt();
         }
@@ -55,4 +60,4 @@ public class LinkedListInput {
 
 }
 
-// Time Complexicity O(n²)
+// Time Complexicity O(n)
