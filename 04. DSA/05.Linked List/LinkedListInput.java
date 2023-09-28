@@ -43,7 +43,7 @@ public class LinkedListInput {
 
         // System.out.print(head.data + " ");
         Print(head);
-        System.out.println();
+        // System.out.println();
 
         while (head != null) {
             System.out.print(head.data + " ");
