@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LinkedListInput {
 
-    public static Npde<Integer> takeInput() {
+    public static Node<Integer> takeInput() {
         Node<Integer> head = null;
         Scanner sc = new Scanner(System.in);
         int data = sc.nextInt();
@@ -43,7 +43,7 @@ public class LinkedListInput {
 
         // System.out.print(head.data + " ");
         Print(head);
-        // System.out.println();
+        System.out.println();
 
         while (head != null) {
             System.out.print(head.data + " ");
