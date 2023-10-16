@@ -12,6 +12,8 @@ public class OneInArr {
         int arr[] = new int[10];
         Arrays.fill(arr, 1);
         printArr(arr);
+        System.out.println("Out of range element");
+        System.out.println(arr[20]);
     }
 
 }
