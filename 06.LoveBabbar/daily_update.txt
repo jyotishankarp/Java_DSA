@@ -1,0 +1,169 @@
+
+DAY-24(20-08-2023): Practicing the 
+i)  char pattern & 
+ii) bitwise operator,
+iii)increment decrement operator
+iv) cccccccc
+
+DAY-24(21-08-2023): Practicing the 
+i)  increment decrement operator
+ii) 
+iii)
+iv) 
+Files(,,)
+
+DAY-25(23-08-2023): Practicing the 
+
+DAY-26(23-08-2023): Practicing the 
+i)  Scopes in java
+ii) functions in java
+iii)
+iv) 
+Files(,,)
+
+DAY-27(24-08-2023): Practicing the 
+i)  functions calling in java
+ii) 
+iii)
+iv) 
+Files(,,)
+
+DAY-28(25-08-2023): Practicing the (functions in java,Array)
+i)  java pass by value
+ii) 
+iii)
+iv) 
+Files(PassByValue.java,,)
+
+DAY-29(26-08-2023): Practicing the (Array)
+01):Array increment,referance of an array
+02): i)Linear Search
+     ii)Binary Search(Must Be in sorted)
+     iii)Selection Sort
+     iv)Bubble Sort(swap adjcent element in an array):Done for today
+Files()
+
+DAY-30(27-08-2023):Practicing the (No Commit Due To Illness)
+DAY-31(28-08-2023):Practicing the (Start Late)
+
+DAY-32(29-08-2023): Practicing the (Array)
+01): i)Linear Search
+     ii)Binary Search(Must Be in sorted)
+     iii)Selection Sort
+     iv)Bubble Sort(swap adjcent element in an array):Done for today
+Files()
+
+DAY-33(30-08-2023): Nothing
+
+DAY-34(31-08-2023): String,Multi Dimentional Arrays
+01):String: Done For Today
+02):Multi Dimentional Arrays
+
+//----------------------------------------(September)35
+DAY-35(01-09-2023): Multi Dimentional Arrays
+01):2D array
+02):
+
+DAY-36(02-09-2023): Multi Dimentional Arrays
+
+DAY-37(03-09-2023): Multi Dimentional Arrays
+01):2D array
+02):
+
+DAY-38(04-09-2023): Jagged Arrays,OOPS 01
+01):Examples(Jagged Arrays)
+02):Starting with OOPS(Access Modifiers,Constructor)
+
+DAY-39(05-09-2023): Recursion
+01):
+02):
+
+DAY-40(06-09-2023): Late Commit,Late Commit2
+01):
+02):
+
+DAY-41(07-09-2023): No Commit
+01):
+02):
+
+DAY-42(08-09-2023): Recursion
+01):Recursion In array (memory Opt)
+02):Function Overriding
+
+DAY-43(09-09-2023): No Commit
+01):
+02):
+
+DAY-44(10-09-2023): ADVANCED Topic
+01):
+02):
+
+DAY-47(13-09-2023): ADVANCED Topic
+01):
+02):
+
+DAY:?(Morning)(13-09-2023): ADVANCED Topic
+01):QuickSort
+
+-------
+
+DAY:(13-09-2023): ADVANCED Topic(Recursion)
+01):Return SubString Using Recursion
+02):Return Keypad Using Recursion
+01):Print SubString Using Recursion
+03):Print Keypad Using Recursion
+
+DAY:(18-09-2023): Time & Space Complexity
+DAY:(19-09-2023): Time & Space Complexity(2)
+
+DAY:(20-09-2023):Main DSA Concept()
+01):ArrayList
+02):LinkedList(Just Sterted)
+
+DAY:(21-09-2023):Main DSA Concept()
+01):ArrayList(Revise,foreach loop)
+02):LinkedList()
+
+DAY:(22-09-2023):Main DSA Concept()
+01):LinkedList(Print LinkedList)
+02):
+
+DAY:(26-09-2023):BLANK
+01):
+02):
+
+DAY:(27-09-2023):No Commit
+01):
+02):
+
+DAY:(28-09-2023):
+01):
+02):
+
+DAY:(29-09-2023):
+01):
+02):
+
+DAY:(30-09-2023):
+01):
+02):
+
+DAY:(01-10-2023):Blank Commit
+01):
+02):
+
+DAY:(02-10-2023):Blank Commit
+01):
+02):
+
+DAY:(03-10-2023):Blank Commit
+01):
+02):
+
+DAY:(04-10-2023):Blank Commit
+01):
+02):
+
+DAY:(05-10-2023):Blank Commit
+01):
+02):
