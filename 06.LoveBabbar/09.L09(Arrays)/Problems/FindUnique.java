@@ -1,4 +1,4 @@
-
+//other findunique
 public class FindUnique {
     static int traverseArray(int arr[],int l,int n){
         for(int i = 0;i<l;i++){
