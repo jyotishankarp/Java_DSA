@@ -16,7 +16,26 @@ arr.forEach((e, ind) => {
     e.first.forEach((e, ind) => {
         count++;
 
-        console.log('child index' + count);
+        // console.log('child index' + count);
 
     })
 })
+
+const person = {
+    name: 'John',
+    age: undefined,
+
+    speak() {
+        console.log(this.name);
+    },
+    talk: () => {
+        console.log(this.name)
+    }
+}
+person.speak();
+person.talk();
+// const person2 = JSON.parse(JSON.stringify(person));
+
+// const person2 = { ...person }
+
+// console.log(person2)
