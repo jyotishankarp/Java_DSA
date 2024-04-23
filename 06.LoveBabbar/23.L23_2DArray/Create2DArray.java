@@ -31,13 +31,19 @@ public class Create2DArray {
     // sum all the col values of an row
     public static void rowWiseSum(int arr[][], int row, int col, int sumArr[]) {
         int rowSum = 0;
+        int largestRowSum = 0;
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
                 rowSum = rowSum + arr[i][j];
             }
             sumArr[i] = rowSum;
+            if (rowSum > largestRowSum) {
+                largestRowSum = rowSum;
+            }
             rowSum = 0;
         }
+        // Largest row sum is
+        System.out.println("Largest row sum is " + largestRowSum);
         System.out.println();
     }
 
