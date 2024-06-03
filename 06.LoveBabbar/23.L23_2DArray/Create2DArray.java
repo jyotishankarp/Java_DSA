@@ -97,6 +97,23 @@ public class Create2DArray {
             System.out.print(sumArr[i] + " ");
         }
 
+        System.out.println("@nd line");
+        System.out.println(arr4[0].length);
+        for (int i = 0; i < arr4[0].length; i++) {
+            if (i % 2 == 1) {
+                // bottom to top
+                for (int j = arr4.length - 1; j >= 0; j--) {
+                    System.out.print(arr4[i][j] + " ");
+                }
+            } else {
+                // top to bottom
+                for (int j = 0; j < arr4.length; j++) {
+                    System.out.print(arr4[i][j] + " ");
+                }
+            }
+
+        }
+
         // Scanner Close
         s.close();
     }
