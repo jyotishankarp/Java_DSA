@@ -18,8 +18,6 @@ public class SumOfArray {
     public int sumArray2(int arr[], int size) {
         if (size <= 0)
             return 0;
-        if (size == 1)
-            return arr[0];
         return arr[size - 1] + sumArray(arr, size - 1);
     }
 
